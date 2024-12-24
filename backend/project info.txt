@@ -1,0 +1,2 @@
+Mongodb : iliasradouche2 / TkR77iOSSCLZDlZr
+mongodb+srv://iliasradouche2:<db_password>@ecom-store.raegp.mongodb.net/?retryWrites=true&w=majority&appName=ecom-store
